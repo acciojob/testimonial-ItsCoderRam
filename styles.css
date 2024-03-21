@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.main_container{
+	background-color:#f5f5f5;
+	padding:20px;
+	
+}
+.auth_first{
+	background-color:rgb(253, 254, 254 );
+	padding:5px;
+	
+}
+.auth_second{
+	background-color:rgb(253, 254, 254 );
+	padding:5px;
+	margin-top:20px;
+}
+.auth{
+	text-align:right;
+}
+p{
+	font-style:italic;
+}
